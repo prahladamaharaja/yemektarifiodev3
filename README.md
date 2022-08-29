@@ -1,7 +1,7 @@
 # Odev 3 Icin OLusturulan Yemek Tarifi Sitesi
 Direkt ayni tarifi yazarak olusturulan web sitesi. Bu repo icerisinde bir adet README dosyasi, bir adet index.html barindiriyor.
 
-![odev3](https://user-images.githubusercontent.com/111706176/187317871-527dbba5-c250-46f9-869a-a068d288dff2.png)
+![oodev3](https://user-images.githubusercontent.com/111706176/187318148-e56fd4d4-356b-445b-94e0-4e7232196d0b.png)
 
 ## Installation
 ```
